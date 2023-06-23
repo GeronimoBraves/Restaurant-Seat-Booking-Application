@@ -19,15 +19,17 @@ The application consists of various screen layouts which are redirected from one
 
 ### Splash Screen
 The splash screen is the first Landing UI whenever a user interacts with the application. The User experience is more emphasized so as to make more interactivity and screen timeout is more.
+Output:
+!(/output/OP1.jpg)
 
 ### Menu Page
 The menu page is the main UI wherein users can customize their order purchase. The screen adjustment is relatively compact and easy to scroll and look for the best-fitted dish to order for.
 
 ### List of Branches
-This page is choosing the right location near to your vicinity area, so as to visit the right location in nearest destination restaurant possible. This allows users to choose a particular area based on their choice.
+This page is for choosing the right location near to your vicinity area, so as to visit the right location in the nearest destination restaurant possible. This allows users to choose a particular area based on their choice.
 
 ### Seat Layout
-Many customers do not have a good experience or a comfortable sitting area given a hasty place full of crowd. This page defines available chairs and tables placed over the whole dining area and allows the customer to sit according to their convenience. The user can select as well as deselect here.
+Many customers do not have a good experience or a comfortable sitting area given a hasty place full of crowds. This page defines available chairs and tables placed over the whole dining area and allows the customer to sit according to their convenience. The user can select as well as deselect here.
 
 ### Seat Booking Form
 The seat booking form asks users for their identity for official registers.
