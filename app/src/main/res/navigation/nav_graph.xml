@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menu2">
+
+    <activity
+        android:id="@+id/menu2"
+        android:name="com.example.sfc2.Menu2"
+        android:label="Menu2" />
+    <activity
+        android:id="@+id/branches"
+        android:name="com.example.sfc2.Branches"
+        android:label="Branches" />
+    <activity
+        android:id="@+id/about"
+        android:name="com.example.sfc2.About"
+        android:label="About" />
+</navigation>
