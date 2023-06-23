@@ -18,24 +18,42 @@ The application consists of various screen layouts which are redirected from one
 - Contact Information
 
 ### Splash Screen
-The splash screen is the first Landing UI whenever a user interacts with the application. The User experience is more emphasized so as to make more interactivity and screen timeout is more.
-Output:
-!(/output/OP1.jpg)
+The splash screen is the first Landing UI whenever a user interacts with the application. The User experience is more emphasized so as to make more interactivity and screen timeout is more.  
+Output:   
+<img src="/output/OP1.jpg" height="300px" width="200px">
 
 ### Menu Page
-The menu page is the main UI wherein users can customize their order purchase. The screen adjustment is relatively compact and easy to scroll and look for the best-fitted dish to order for.
+The menu page is the main UI wherein users can customize their order purchase. The screen adjustment is relatively compact and easy to scroll and look for the best-fitted dish to order for.  
+Output:   
+<img src="/output/OP3.png" height="300px" width="200px">
+
 
 ### List of Branches
-This page is for choosing the right location near to your vicinity area, so as to visit the right location in the nearest destination restaurant possible. This allows users to choose a particular area based on their choice.
+This page is for choosing the right location near your vicinity area, so as to visit the right location in the nearest destination restaurant possible. This allows users to choose a particular area based on their choice.  
+Output:   
+<img src="/output/OP4.png" height="300px" width="200px">
+
 
 ### Seat Layout
-Many customers do not have a good experience or a comfortable sitting area given a hasty place full of crowds. This page defines available chairs and tables placed over the whole dining area and allows the customer to sit according to their convenience. The user can select as well as deselect here.
+Many customers do not have a good experience or a comfortable sitting area given a hasty place full of crowds. This page defines available chairs and tables placed over the whole dining area and allows the customer to sit according to their convenience. The user can select as well as deselect here.  
+Output:   
+<img src="/output/OP5.png" height="300px" width="200px">
+
 
 ### Seat Booking Form
-The seat booking form asks users for their identity for official registers.
+The seat booking form asks users for their identity for official registers.  
+Output:   
+<img src="/output/OP6.png" height="300px" width="200px">
+
 
 ### Feedback Form
-The feedback form asks for rating and customer’s experience. The UX of the page is designed to give the best possible experience.
+The feedback form asks for a rating and the customer’s experience. The UX of the page is designed to give the best possible experience.  
+Output:   
+<img src="/output/OP1.png" height="300px" width="200px">
+
 
 ### Contact Information
-The contact information page stores the contact details of the registrants with all the people who visited along and stores the same in the backend database for official purposes.
+The contact information page stores the contact details of the registrants with all the people who visited along and stores the same in the backend database for official purposes.  
+Output:   
+<img src="/output/OP2.png" height="300px" width="200px">
+
